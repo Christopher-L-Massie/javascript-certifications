@@ -33,7 +33,3 @@ As I navigate through the JavaScript Institute's certification tracks, here's a 
   > Moving beyond the basics, the JSA certification delves into more complex JavaScript concepts and development practices, setting the foundation for advanced programming and application development.
   >
   > [Certification Details](https://js.institute/jsa-certification)
-
-## Contribute
-
-I welcome you to explore the scripts and projects within this repository. Your feedback, suggestions, or contributions are invaluable as they not only help improve this repository but also support my learning journey.
